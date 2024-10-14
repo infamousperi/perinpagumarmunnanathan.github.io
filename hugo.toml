@@ -1,0 +1,53 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Portfolio"
+theme = "blowfish"
+
+
+[params]
+colorScheme = "neon"
+enableSearch = false
+homepage.layout = "profile"
+
+[params.author]
+name = "Perinpagumar Munnanathan"
+
+[params.article]
+showAuthor = false
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+pageRef = "/"
+weight = 1
+
+[[menu.main]]
+name = "About Me"
+pageRef = "about"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+pageRef = "blog"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
+pageRef = "projects"
+weight = 4
+
+[[menu.main]]
+name = "Resume"
+pageRef = "resume"
+weight = 5
+
+[[menu.main]]
+pre = "linkedin"
+url = "https://www.linkedin.com/in/perinpagumar-munnanathan-799556253/"
+weight = 20
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
