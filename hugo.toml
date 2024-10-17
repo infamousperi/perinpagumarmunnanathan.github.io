@@ -8,6 +8,9 @@ theme = "blowfish"
 colorScheme = "neon"
 enableSearch = false
 homepage.layout = "profile"
+highlightCurrentMenuArea = true
+header.layout = "fixed"
+footer.showThemeAttribution = false
 
 [params.author]
 name = "Perinpagumar Munnanathan"
@@ -28,8 +31,8 @@ pageRef = "about"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
-pageRef = "blog"
+name = "Blogs"
+pageRef = "blogs"
 weight = 3
 
 [[menu.main]]
@@ -42,10 +45,24 @@ name = "Resume"
 pageRef = "resume"
 weight = 5
 
+[[main]]
+name = "Links"
+weight = 200
+
 [[menu.main]]
+identifier = "LinkedIn"
+parent = "Links"
 pre = "linkedin"
 url = "https://www.linkedin.com/in/perinpagumar-munnanathan-799556253/"
-weight = 20
+weight = 1
+
+[[menu.main]]
+identifier = "GitHub"
+parent = "Links"
+pre = "github"
+url = "https://github.com/infamousperi"
+weight = 2
+
 
 [markup]
 [markup.goldmark]
