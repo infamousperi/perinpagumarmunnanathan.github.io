@@ -6,9 +6,9 @@ layout: "simple"
 {{< timeline >}}
 
 {{< timelineItem icon="threads" header="Introduction">}}
-I'm a 23-year-old Data Science student at the University of Applied Sciences and Arts Northwestern Switzerland. 
+I'm a 23-year-old Data Science student at the University of Applied Sciences and Arts Northwestern Switzerland (FHNW). 
 I'm deeply passionate about data's transformative potential in today's world. With a strong educational foundation, 
-I hold a Certificate of Competency in Computer Science EFZ, specializing in application development, and a Commercial Vocational Baccalaureate.
+I hold a Federal Diploma of Vocational Education and Training in Application Development (EFZ) and a Vocational Baccalaureate in Economics and Services (BM).
 <br>
 <br>
 My background in computer science has given me a solid grasp of the technical aspects of programming, problem-solving, and developing efficient applications.
@@ -23,7 +23,7 @@ I am excited to see where my journey will take me next. I’m open to opportunit
 
 
 {{< timelineItem icon="star" header="Hobbies">}}
-In my free time, I enjoy hanging out with my friends, playing video games, drawing, producing music with FL Studio and I also play the piano.
+In my free time, I love spending time with friends, playing video games, drawing, creating music with FL Studio, and playing the piano.
 <br>
 <br>
 {{< gallery >}}
@@ -37,8 +37,13 @@ In my free time, I enjoy hanging out with my friends, playing video games, drawi
 
 {{< timelineItem icon="link" header="Links">}}
 {{< alert icon="linkedin" cardColor="#0a66c2" iconColor="#FFFFFF" textColor="#FFFFFF" >}}
-<a href="https://www.linkedin.com/in/perinpagumar-munnanathan-799556253/" style="color: #004182;">Connect</a>
+<a href="https://www.linkedin.com/in/perinpagumar-munnanathan-799556253/" style="color: #004182;" target="_blank">Connect</a>
 with me on LinkedIn.
+{{< /alert >}}
+<br>
+{{< alert icon="github" cardColor="#2b3137" iconColor="#FFFFFF" textColor="#FFFFFF" >}}
+<a href="https://github.com/infamousperi" style="color: #2dba4e;" target="_blank">Follow</a>
+me on GitHub.
 {{< /alert >}}
 {{< /timelineItem >}}
 
