@@ -7,13 +7,23 @@ theme = "blowfish"
 [params]
 colorScheme = "neon"
 enableSearch = false
-homepage.layout = "profile"
 highlightCurrentMenuArea = true
-header.layout = "fixed"
-footer.showThemeAttribution = false
+
+[params.homepage]
+layout = "profile"
+
+[params.header]
+layout = "fixed"
+
+[params.footer]
+showThemeAttribution = false
+
+[params.list]
+showCards = true
 
 [params.author]
 name = "Perinpagumar Munnanathan"
+image = "profile.webp"
 
 [params.article]
 showAuthor = false

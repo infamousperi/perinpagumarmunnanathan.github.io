@@ -1,6 +1,7 @@
 ---
 title: "VTA Fourier Transformation"
 date: 2024-06-09
+type: "project"
 ---
 This project aims to develop a foundational understanding of the Fourier Transformation 
 for approximating periodic functions and its practical applications in data analysis.

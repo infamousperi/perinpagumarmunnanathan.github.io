@@ -1,6 +1,7 @@
 ---
 title: "Rockfall Risk Challenge"
 date: 2024-01-14
+type: "project"
 ---
 
 The goal of this project is to assess the risk of fatalities caused by rockfalls on a section of the cantonal road below Schiers (GR), 

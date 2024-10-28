@@ -1,6 +1,7 @@
 ---
 title: "PRR Project Airbnb's in New York"
 date: 2024-01-07
+type: "project"
 ---
 
 The goal of this project is to analyze Airbnb listings in New York and identify the most expensive ones, 

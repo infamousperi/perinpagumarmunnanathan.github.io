@@ -1,6 +1,7 @@
 ---
 title: "VTA Gradient Decent"
 date: 2024-04-28
+type: "project"
 ---
 This project aims to develop a solid understanding of numerical approximation methods in higher dimensions, 
 with a particular focus on the gradient descent algorithm and its practical application in training neural networks. 

@@ -1,6 +1,7 @@
 ---
 title: "Reflection on My Skills Audit"
 date: 2024-10-15
+type: "blog"
 ---
 Completing the CareerSmart skills audit was a valuable experience that gave me insight into key areas for personal development.
 Four main areas emerged as needing improvement: Communication, Numerical Skills, Managing Self, and Managing Others. 
