@@ -2,9 +2,7 @@
 title: "About Me"
 layout: "simple"
 ---
-
 {{< timeline >}}
-
 {{< timelineItem icon="threads" header="Introduction">}}
 I'm a 23-year-old Data Science student at the University of Applied Sciences and Arts Northwestern Switzerland (FHNW). 
 I'm deeply passionate about data's transformative potential in today's world. With a strong educational foundation, 

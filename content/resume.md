@@ -75,9 +75,13 @@ layout: "simple"
 
 {{< timelineItem icon="circle-info" header="My CV">}}
 
-{{< button >}}
+{{< button href="/CV.pdf" target="_blank" rel="noopener" >}}
 Download CV
 {{< /button >}}
+
+
+
+
 
 {{< /timelineItem >}}
 
