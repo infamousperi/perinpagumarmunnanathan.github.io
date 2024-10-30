@@ -10,7 +10,11 @@ enableSearch = false
 highlightCurrentMenuArea = true
 disableImageZoom = true
 description = "Welcome to the portfolio of Perinpagumar Munnanathan, a dedicated Data Science student skilled in machine learning,data analysis, and application development. Discover his latest projects, insightful blogs, and career highlights in the dynamic field of data science."
+logo = "logo.png"
+favicon = "favicon.ico"
 
+[params.meta]
+favicon = false
 
 [params.homepage]
 layout = "profile"
@@ -26,7 +30,7 @@ showCards = true
 
 [params.author]
 name = "Perinpagumar Munnanathan"
-image = "profile2.jpg"
+image = "profile.jpg"
 
 [params.article]
 showAuthor = false
